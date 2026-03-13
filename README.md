@@ -48,4 +48,4 @@ J'ai également l'intention de séparer le code de la génération, et celui de 
 
 
 
-Et il semblerait (qu'en raison de sa taille importante : 450Mo) que la sauvegarde de l'IA soit indisponible en ligne. Si vous tenez à obtenir plus d'informations, je vous invite à me contacter via la section "contact" de mon portefolio : https://diagegd.github.io/portfolio
+Et il semblerait (qu'en raison de sa taille importante : 450Mo) que la sauvegarde de l'IA soit indisponible en ligne. Si vous tenez à obtenir plus d'informations, je vous invite à me contacter via la section "contact" de mon portefolio : https://diagegd.github.io/portfolio/#contacts
